@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This repository belongs to Nelson Lim and contains weekly blogs written for a course in Open Source software
+development.
 
