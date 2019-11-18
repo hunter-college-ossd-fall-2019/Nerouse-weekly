@@ -25,5 +25,5 @@ Replace the first row below with your contribution.
 |   7  |   [Open Street Maps](https://www.openstreetmap.org/changeset/76021189)  |   Open Street Maps  |   Added existing nail salon to Open Street Maps   |
 |  7   |  [Open Street Maps](https://www.openstreetmap.org/changeset/76021233)   |  Open Street Maps   |   Added existing Bar and Grill to Open Street Maps   |
 |   9  |  [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)   |   GitHub   |   Added cbegin example to set   |
-|     |     |     |      |
-|     |     |     |      |
+|  11   |   [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)  |  GitHub   |  Added  cend to set   |
+|  12   |   [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)  |   GitHub  |    Added rend to map  |
