@@ -27,3 +27,5 @@ Replace the first row below with your contribution.
 |   9  |  [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)   |   GitHub   |   Added cbegin example to set   |
 |  11   |   [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)  |  GitHub   |  Added  cend to set   |
 |  12   |   [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)  |   GitHub  |    Added rend to map  |
+|  12   |  [Open Street Maps](https://www.openstreetmap.org/changeset/77290785)   |  Open Street Maps   |   Updated resturant on Open Street Maps   |
+|  12   |  [Open Street Maps](https://www.openstreetmap.org/changeset/77290972)   |  Open Street Maps   |   Added existing pizza restaurant to Open Street Maps   |
